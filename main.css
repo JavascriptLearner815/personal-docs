@@ -51,7 +51,7 @@ body {
     align-self: flex-start;
   }
 
-  .container .ql-toolbar.ql-snow, #print {
+  .container .ql-toolbar.ql-snow, #print, #clear {
     display: none;
   }
 }
