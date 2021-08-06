@@ -7,11 +7,6 @@ body {
   margin: 0;
 }
 
-#print {
-  display: flex;
-  justify-content: center;
-}
-
 .container .ql-editor {
   width: 8.5in;
   min-height: 11in;
