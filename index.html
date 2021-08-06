@@ -30,7 +30,7 @@
 
 <!-- Create the editor container -->
 <div id="editor">
-  <p>Use the toolbar above to<strong>edit text format or clear it.</strong></p>
+  <p>Use the toolbar above to<strong>edit the text format or clear it.</strong></p>
 </div>
 
 <!-- Include the Quill library -->
@@ -46,14 +46,14 @@
   ['bold', 'italic', 'underline', 'strike', 'link'],        // toggled buttons
   ['image', 'video', 'formula', 'blockquote', 'code-block', 'code'],
 
-  [{ 'header': 1 }, { 'header': 2 }, { 'header': 3 }],               // custom button values
+  [{ 'header': 1 }, { 'header': 2 }],               // custom button values
   [{ 'list': 'ordered'}, { 'list': 'bullet' }],
   [{ 'script': 'sub'}, { 'script': 'super' }],      // superscript/subscript
   [{ 'indent': '-1'}, { 'indent': '+1' }],          // outdent/indent
-  [{ 'direction': 'rtl' }],                         // text direction
+  [{ 'direction': [] }],                         // text direction
 
-  [{ 'size': ['small', 'medium', 'large', 'huge'] }],  // custom dropdown
-  [{ 'header': [1, 2, 3, 4, 5, 6, 7, false] }],
+  [{ 'size': ['small', false, 'large', 'huge'] }],  // custom dropdown
+  [{ 'header': [1, 2, 3, 4, 5, 6, false] }],
 
   [{ 'color': [] }, { 'background': [] }],          // dropdown with defaults from theme
   [{ 'font': [] }],
