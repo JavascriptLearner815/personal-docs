@@ -67,7 +67,7 @@ Additionally, community organizers are available to help community members engag
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify JavascriptLearner815 (listed in Section 10) with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://github.com/JavascriptLearner815/personal-docs/blob/main/GOVERNING-POLICY.md)
 
-https://github.com/JavascriptLearner815/personal-docs/blob/main/GOVERNING-SANCTION-POLICY.md
+[Sanction policy](https://github.com/JavascriptLearner815/personal-docs/blob/main/GOVERNING-SANCTION-POLICY.md)
 
 ## 9. Scope
 
