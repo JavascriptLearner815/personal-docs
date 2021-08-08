@@ -7,6 +7,21 @@ body {
   margin: 0;
 }
 
+a {
+  color: #93E9BE;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #B5FBDF;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #D7FDFF;
+  text-decoration: underline;
+}
+
 .container .ql-editor {
   width: 8.5in;
   min-height: 11in;
