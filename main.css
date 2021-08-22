@@ -350,6 +350,19 @@ template {
   display: none;
 }
 
+/**
+ * Added by JavascriptLearner815:
+ * Center content within <center> tags
+ */
+
+center {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   flex-direction: column;
+}
+
 
 
 
@@ -377,6 +390,7 @@ button {
 
 iframe {
   overflow: hidden;
+  resize: both;
 }
 
 a {
