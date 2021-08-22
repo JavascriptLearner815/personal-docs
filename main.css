@@ -11,6 +11,10 @@ button {
   outline: none;
 }
 
+iframe {
+  overflow: hidden;
+}
+
 a {
   color: #93E9BE;
   text-decoration: none;
