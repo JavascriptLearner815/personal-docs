@@ -379,6 +379,10 @@ center {
   box-sizing: border-box;
 }
 
+body, button {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
   background-color: #F3F3F3;
   margin: 0;
