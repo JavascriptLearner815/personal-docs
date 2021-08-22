@@ -389,10 +389,10 @@ button {
 }
 
 iframe {
-  height: 300px;
-  width: 450px;
-  resize: both;
   overflow: auto;
+  height: 30px;
+  width: 40px;
+  resize: both;
 }
 
 a {
