@@ -389,8 +389,10 @@ button {
 }
 
 iframe {
-  overflow: hidden;
+  height: 300px;
+  width: 450px;
   resize: both;
+  overflow: auto;
 }
 
 a {
